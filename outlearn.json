@@ -1,0 +1,23 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "all-modules-learnxinyminutes",
+      "title" : "All Modules by Learn X in Y minutes",
+      "description" : "See in one place all the modules published by Learn X in Y minutes.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "go"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/go.md"}
+  ],
+
+  "assets" : [
+  ]
+}

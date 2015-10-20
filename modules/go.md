@@ -5,8 +5,8 @@
 "title" : "Learn Go in Y minutes",
 "description" : "Go was created out of the need to get work done. It’s not the latest trend in computer science, but it is the newest fastest way to solve real-world problems.",
 "freshnessDate" : 2015-01-01,
-"homepage" : "",
-"canonicalSource" : "",
+"homepage" : "http://learnxinyminutes.com/docs/go/",
+"canonicalSource" : "http://learnxinyminutes.com/docs/go/",
 "license" : "All Rights Reserved"
 }
 -->
